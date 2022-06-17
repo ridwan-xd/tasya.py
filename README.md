@@ -21,8 +21,9 @@ pip install bs4
  pkg install git
 
  git clone https://github.com/ridwan-xd/tasya
-cd tasya
 
-git pull
+ cd tasya
+
+ git pull
 
 python simpleV1.py
